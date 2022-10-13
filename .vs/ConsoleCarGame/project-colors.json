@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "572df7a1-e40c-4206-98ba-7f49516a8ed1": {
+      "ProjectGuid": "572df7a1-e40c-4206-98ba-7f49516a8ed1",
+      "DisplayName": "ConsoleCarGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

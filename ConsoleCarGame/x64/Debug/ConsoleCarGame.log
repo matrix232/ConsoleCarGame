@@ -1,0 +1,4 @@
+﻿  ConsoleCarGame.cpp
+D:\ProgrammingProjects\ConsoleCarGame\ConsoleCarGame\ConsoleCarGame.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ProgrammingProjects\ConsoleCarGame\ConsoleCarGame\ConsoleCarGame.cpp(209,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleCarGame.vcxproj -> D:\ProgrammingProjects\ConsoleCarGame\x64\Debug\ConsoleCarGame.exe
